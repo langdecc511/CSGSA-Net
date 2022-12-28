@@ -1,15 +1,15 @@
 # DANet
-  This is our research code of "Deformable Attention Network for Articular Surface and Epiphysis Segmentation from Hand Radiograph"
+  This is our research code of "CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation"
   
   If you need any help for the code and data, do not hesitate to leave issues in this repository.
 ****
 ## Citation
  
 ```
- @article{DA2023Deng,
-  title={DANet: Deformable Attention Network for Epiphysis and Articular Surface Segmentation from Hand Radiograph},
-  author={Yamei Deng, Xu Wang, Student Member, IEEE, Yong Liao, Qian He, Yonglu Chen, Ting Song},
-  journal={Manuscript submitted}
+ @article{CS2023Wang,
+  title={CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation},
+  author={Xu Wanga, Yang Han and Yamei Deng},
+  journal={Biomedical signal processing and control}
 }
 
 ```
@@ -33,6 +33,9 @@ python test.py
 
 ```
 
-If you want to train the DANet on the TSRS_RSNA-Articular-Surface dataset, please update the "datasets_root" in the config.py. 
+You can adjust the network by the following:
+1. adjust the "nhid" of GCN in gpa.py;
+2. add the layer of backbone in gpa.py;
+3. adjust the learning rate.
 
 ```
