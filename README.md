@@ -1,5 +1,5 @@
 # DANet
-  This is our research code of "CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation"
+  This is basic code of "CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation"
   
   If you need any help for the code and data, do not hesitate to leave issues in this repository.
 ****
