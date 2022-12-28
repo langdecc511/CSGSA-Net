@@ -9,7 +9,10 @@
  @article{CS2023Wang,
   title={CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation},
   author={Xu Wanga, Yang Han and Yamei Deng},
-  journal={Biomedical signal processing and control}
+  journal={Biomedical signal processing and control},
+  pages={},
+  volume={},
+  year={2023}
 }
 
 ```
