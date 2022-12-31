@@ -24,14 +24,6 @@ python train.py
 
 ```
 
-### Testing
-
-```
-
-python test.py
-
-```
-
 ## Notes
 
 ```
