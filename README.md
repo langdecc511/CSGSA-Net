@@ -29,8 +29,8 @@ python train.py
 ```
 
 You can adjust the network by the following:
-1. adjust the "nhid" of GCN in gpa.py;
-2. add the layer of backbone in gpa.py;
-3. adjust the learning rate.
+1. Adjust the A"nhid" of GCN in gpa.py;
+2. Add the layer of backbone in gpa.py;
+3. Update the learning rate.
 
 ```
