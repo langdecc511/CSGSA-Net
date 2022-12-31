@@ -1,5 +1,5 @@
 # DANet
-  This is basic code of "CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation"
+  This is basic code of [CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation] (https://www.sciencedirect.com/science/article/pii/S1746809422010102)
   
   If you need any help for the code and data, do not hesitate to leave issues in this repository.
 ****
@@ -10,9 +10,9 @@
   title={CSGSA-Net: Canonical-Structured Graph Sparse Attention Network for Fetal ECG Estimation},
   author={Xu Wang, Yang Han and Yamei Deng},
   journal={Biomedical signal processing and control},
-  pages={},
-  volume={},
-  year={2023}
+  pages={1--10},
+  volume={82},
+  year={2023. Art. no. 104556}
 }
 
 ```
