@@ -27,8 +27,8 @@ python train.py
 ## Notes
 
 ```
+This project tends to share the basic code of our idea, and the test code can not share due to the copyright. But it can be implemented from the references cited in the available paper. In addition, the other dataset, named B2DB dataset, is used from "Fetal electrocardiograms, direct and abdominal with reference heartbeat annotations". Moreover, if you want to improve the performance of the network, the following methods are provided:
 
-You can adjust the network by the following:
 1. Adjust the A"nhid" of GCN in gpa.py;
 2. Add the layer of backbone in gpa.py;
 3. Update the learning rate.
